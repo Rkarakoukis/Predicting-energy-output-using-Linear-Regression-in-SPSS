@@ -1,0 +1,1 @@
+# Predicting-energy-output-using-Linear-Regression-in-SPSS
